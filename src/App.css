@@ -36,3 +36,37 @@
     transform: rotate(360deg);
   }
 }
+
+.calc{
+  width: 320px;
+  margin: 100px auto;
+}
+
+#answer{
+  background-color: #e2e2e2;
+  padding: 10px;
+  font-size: 35px;
+  width: 320px;
+  height: 45px;
+  text-align: right;
+  border: 3px solid #333;
+}
+
+.button{
+  background-color: black;
+  height: 80px;
+  width: 80px;
+  color: white;
+  font-size: 30px;
+  padding: 5px;
+  border: 1px solid black;
+  float: left;
+}
+
+.button1{
+  width: 160px;
+  height: 60px;
+  background-color: black;
+  color: white;
+  border: 2px solid grey;
+}
